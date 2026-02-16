@@ -61,4 +61,7 @@ links = [
     'https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/energie/reussir-ses-projets-transition-energetique/aide-financiere/programme-ecoperformance/implantation-grand-projet-industriel?utm_source=bbf-orae&utm_medium=website&utm_campaign=FTF&utm_term=business_benefits_finder-outil_recherche_aide_aux_entreprises',
     'https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/energie/reussir-ses-projets-transition-energetique/aide-financiere/programme-ecoperformance/remise-point-systemes-mecaniques#c311141?utm_source=bbf-orae&utm_medium=website&utm_campaign=FTF&utm_term=business_benefits_finder-outil_recherche_aide_aux_entreprises',
     'https://www.investquebec.com/quebec/fr/produits-financiers/toutes-nos-solutions/Impulsion-PME.html?utm_source=bbf-orae&utm_medium=website&utm_campaign=FTF&utm_term=business_benefits_finder-outil_recherche_aide_aux_entreprises',
+    'https://www.scaleai.ca/projects/?utm_source=bbf-orae&utm_medium=website&utm_campaign=FTF&utm_term=business_benefits_finder-outil_recherche_aide_aux_entreprises',
+    'https://fednor.canada.ca/en/our-programs/regional-artificial-intelligence-initiative-raii-northern-ontario?utm_source=bbf-orae&utm_medium=website&utm_campaign=FTF&utm_term=business_benefits_finder-outil_recherche_aide_aux_entreprises',
+    'https://www.cannor.gc.ca/eng/1731601687376/1731601710675#sec2?utm_source=bbf-orae&utm_medium=website&utm_campaign=FTF&utm_term=business_benefits_finder-outil_recherche_aide_aux_entreprises',
 ]
